@@ -1,0 +1,2 @@
+# fukrey
+just a repository
