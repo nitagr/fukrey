@@ -1,2 +1,1 @@
-# fukrey
-just a repository
+Manna's first name(linear search)
