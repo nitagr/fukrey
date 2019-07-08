@@ -1,1 +1,1 @@
-Manna's first name(linear search)
+random hackerearth contest problems...solution 
